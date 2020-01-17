@@ -7,7 +7,7 @@
 </head>
 
 <?php
-
+#add some comments here
     require 'database.php';
 
     if ( !empty($_POST)) {
